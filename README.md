@@ -28,7 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://linkedin.com/in/itsmeankitsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/itsmeankitsingh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Singh_ankit424?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekawasth14?hr_r=1" height="30" width="40" /></a>
 </p>
 <p align="center">LUCKY VISITOR NUMBER</br><img title="title" align="center" alt="ankit040797" width="200" src="https://profile-counter.glitch.me/ankit040797/count.svg" /></p>
 
